@@ -1,0 +1,39 @@
+
+.flex-section{
+  display: flex;
+  flex-wrap: wrap;
+    font-style: normal;
+    text-transform: capitalize;
+    flex-direction:column;
+    height: auto;
+    padding-left: 4%;
+    
+
+    
+}
+.flex-main{
+    
+        display: flex;
+        height: auto;
+        flex-wrap: nowrap;
+        flex-shrink: inherit;
+        text-transform: capitalize;
+        flex-direction: column;
+        padding-left: 4%;
+        background-color: rgb(235, 235, 235);
+        font-style: normal;
+      } 
+
+body {
+  display: flex;
+  justify-content: space-around;
+ 
+
+}
+
+.Date {
+  padding-left: 80%;
+}
+
+
+
