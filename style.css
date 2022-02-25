@@ -22,7 +22,7 @@
   float: right;
   position: relative;
   text-transform: capitalize;
-  padding-left: 10%;
+  padding-left: 0%;
    font-style: normal;
    background-color: grey;
   } 
@@ -34,6 +34,6 @@ body {
 .Date {
   padding-left: 80%;
 }
-
-
-
+.ref {
+  float: left;
+}
